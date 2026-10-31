@@ -56,21 +56,18 @@ A document workflow project focused on structured document organization and mana
 > More projects and updates coming soon! 🚀
 
 
+
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh-sheth&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-sheth&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=devansh-sheth&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devansh-sheth&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=devansh-sheth&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 </p>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devansh-sheth&theme=tokyonight&hide_border=true" width="70%" />
-</p>
 
 ## 🐍 Contribution Journey
 
